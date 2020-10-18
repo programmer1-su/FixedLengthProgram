@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class CertificateListName {
+public class OracleCertificateList {
 
 	public static void main(String[] args) {
 		try {
